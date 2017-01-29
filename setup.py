@@ -55,7 +55,7 @@ classifiers.extend([
 
 setup(
     name="blogofile_blog",
-    version="0.8.3",
+    version="0.8.4",
     description="A simple blog engine plugin for Blogofile",
     long_description=long_description,
     author="Ryan McGuire, Doug Latornell, and the Blogofile Contributors",
